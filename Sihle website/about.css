@@ -1,0 +1,80 @@
+.nav{
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0 0 20px;
+}
+.link a{
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 5px 10px;
+    margin-right: 30px;
+}
+
+.link a:hover{
+    color: rgb(20, 57, 1000);
+    background-color: white;
+}
+
+body{
+    background-image: url("https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1072753294%2F960x0.jpg%3Ffit%3Dscale");
+    background-size: cover;
+}
+
+p{
+    font-size: 30px;
+    color: white;
+}
+
+
+h2{
+    color:black;
+    font-size: 40px;
+    font-style: inherit;
+    font-family: serif;
+    text-align: left;
+}
+
+h4{
+    color: black;
+    font-size: 20px;
+    font-style: inherit;
+    text-align: justify;
+}
+
+ul li{
+    color: black;
+}
+
+ul li{
+    color: black;
+}
+
+img {
+    margin-top: 10%;
+    width:  60%;
+    border-radius: 40%;
+    margin-left: 20%;
+}
+.education {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.nav {
+    
+    margin: 50px 0 0 50px;
+}
+.nav a{
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 5px 10px;
+    margin-right: 30px;
+}
+
+.nav a:hover{
+    color: rgb(20, 57, 100);
+    background-color: white;
+}
